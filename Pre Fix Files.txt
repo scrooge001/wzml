@@ -1,0 +1,21 @@
+┎ Daily Leech : ∞ / ∞ per day
+┠ Leech Type : DOCUMENT
+┠ Custom Thumbnail : Not Exists
+┠ Leech Split Size : 1.95GB (Default)
+┠ Equal Splits : Disabled
+┠ Media Group : Enabled
+┠ Leech Caption : <b>{filename}
+
+<b>┏━━━━•❅•°•❈•°•❅•━━━━┓
+💥★ ADG MOVIES™ ★💥
+┗━━━━•❅•°•❈•°•❅•━━━━┛
+
+<a href="https://t.me/+SnoyV4nnr1lkZWY1">MOVIE UPDATES</a></b> <b>I</b> <b><a href="https://t.me/adgmovies">MOVIE GROUP</a></b>
+┠ Leech Prefix : @ADGMOVIES-
+┠ Leech Suffix : Not Exists
+┠ Leech Dumps : 0
+┠ Leech Remname : \[OnlyKDrama\.com\]|\[OnlyKDrama\.xyz\]|\[MkvDrama\.Org\]|\[DRAMADAY\.me\]|@DramaOST\.|@Dramaost\.|@dramaost\.|\.@dramaost|@dramaOST\.|\[D&O\]\.|@KissAsian |_🍁_@MENAKALAHIRU_ツ_Group_🍁_@DARKLOVECOMPLETE|#ADL_|#ADL\.|@ADL_Drama\.|@ADL_Drama_|\[DnO].|@DramaOST_|@DramaOST.|\[DnOMovies].|\[KMH]|@ADL_Drama-- |@ADL_Drama--|@ADL_Drama-\.|@ADL_Drama-|@ADL\.Drama\.|@ADL\.Drama-|@DnOMovies|_ADL_DRAMA™|\.ADL-DRAMA™|\.ADL\.DRAMA™|@drama4uk|@AMovie\.Lovers|@AMovie.Lovers|@AMovie\_Lovers|@Adrama_Lovers-|@Adrama_Lovers_|@Adrama\.Lovers-|@DA_Rips|@DA_Rips|@DA_Rips.|@DA.Rips.|@DA_Rips_|@the_request_group|@the_request_group_|@the_request_group-|@the_request_group_-_|@the_request_group-.|@the_request_group_|@ADrama_Lovers-|@ADrama_Lovers|@ADrama_Lovers_|@ADrama\.Lovers\.|@the_request_group_-|@the.request.group.-|@the\.request\.group.\-|\.adl| :.|_:.|@KLands|KDG|YDF|www_1TamilMV_|
+┖ Leech Metadata : Not Exists
+
+
+sudo docker run -p 80:80 -p 8080:8080 wzmlx
